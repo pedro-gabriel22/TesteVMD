@@ -31,7 +31,8 @@ const Transacao = () =>{
         <br></br>
 
         <button
-        onClick={()=>{RequisicaoFinanceira(), window.location.reload()}}
+        onClick={()=>{RequisicaoFinanceira()
+             window.location.reload()}}
         >Finalizar</button>
                         </div>
                     </div>
