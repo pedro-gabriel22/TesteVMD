@@ -2,5 +2,5 @@
 
 ## Inicialização
 
-Client --> npm run dev
+Client --> npm run dev </br>
 Server --> npm start
